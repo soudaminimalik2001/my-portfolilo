@@ -1,0 +1,118 @@
+/* /* body{
+    margin-top: 20px;
+    background-color:hsl(180, 60%, 47%)
+}
+.main{
+    padding: 15px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+.topbar{
+    background-color: hsl(180, 65%, 17%) ;
+    /* overflow : hidden; */
+    /* overflow: hidden;
+}
+.topbar a{
+    float: right;
+    color: rgb(245, 245, 245);
+    text-align: center;
+    padding: 20px 26px;
+    text-decoration: none;
+    font-size: 26px;
+}
+.sidebar{
+    background-color:whitesmoke;
+    color:rgb(143, 140, 125);
+    height:100%;
+}
+.sidebar a{
+    margin-left: 10px;
+    display: block;
+    color: rgb(201, 43, 43) ;
+    /* paddin: 10px; */
+    /* padding: top 10px; */
+    /* font-size: 30px;
+    text-decoration:none;
+}
+.card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.content{
+    background-color: rgb(245, 245, 245);
+}
+
+.main{
+    padding : 3 rem ;
+/* }  */ 
+
+/* 
+.rounded-circle{
+    text-align: center;
+}
+
+.mt-3{
+    text-align: center;
+}
+.m-3 pt-3{
+    text-align: center;
+} */
+
+.img{
+    align-items: center;
+    margin-left: 27%;
+}
+
+.souda{
+    text-align: center;
+    margin-left:  2px;
+    margin-right: 40px;
+}
+
+.am{
+    background-color:crimson;
+    text-align: center;
+    margin-left:  2px;
+    margin-right: 40px;
+}
+
+.fn{
+    background-color: skyblue;
+    text-align: center;
+    margin-left:  2px;
+    margin-right: 40px;
+}
+.pj{
+    background-color: crimson;
+    text-align: center;
+    margin-left:  2px;
+    margin-right: 40px;
+}
+.prj{
+    text-align: center;
+    margin-left:  2px;
+    margin-right: 40px;
+    background-color: skyblue;
+}
+body{
+    background-color: azure;
+}
+.main{
+    background-color: lightpink;
+}
+
+.ed{
+    text-align: center;
+    margin-left:  2px;
+    margin-right: 40px;
+    background-color: crimson;
+
+}
+
+.detail{
+    text-align: center;
+    margin-left:  2px;
+    margin-right: 40px;
+    background-color: skyblue;
+
+}
